@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs --host --port 3000",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "vuepress-plugin-auto-sidebar": "^2.3.2"
+  }
+}

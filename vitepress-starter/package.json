@@ -1,0 +1,16 @@
+{
+  "name": "vitepress-starter",
+  "version": "1.0.0",
+  "description": "start vitepress",
+  "main": "index.js",
+  "author": "Eli",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --host  --port 3000",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.8"
+  }
+}
