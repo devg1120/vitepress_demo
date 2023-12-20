@@ -1,0 +1,73 @@
+docs/
+|-- components
+|   |-- ComponentInHeader.vue
+|   `-- ModalDemo.vue
+|-- guide
+|   |-- asset-handling.md
+|   |-- cms.md
+|   |-- custom-theme.md
+|   |-- data-loading.md
+|   |-- deploy.md
+|   |-- extending-default-theme.md
+|   |-- frontmatter.md
+|   |-- getting-started.md
+|   |-- i18n.md
+|   |-- markdown.md
+|   |-- migration-from-vitepress-0.md
+|   |-- migration-from-vuepress.md
+|   |-- mpa-mode.md
+|   |-- routing.md
+|   |-- sitemap-generation.md
+|   |-- ssr-compat.md
+|   |-- using-vue.md
+|   `-- what-is-vitepress.md
+|-- index.md
+|-- package.json
+|-- public
+|   |-- appearance-toggle-transition.webp
+|   |-- _headers
+|   |-- pure.html
+|   |-- _redirects
+|   |-- search.png
+|   |-- vitepress-logo-large.webp
+|   |-- vitepress-logo-mini.png
+|   |-- vitepress-logo-mini.svg
+|   `-- vitepress-og.jpg
+|-- reference
+|   |-- cli.md
+|   |-- default-theme-badge.md
+|   |-- default-theme-carbon-ads.md
+|   |-- default-theme-config.md
+|   |-- default-theme-edit-link.md
+|   |-- default-theme-footer.md
+|   |-- default-theme-home-page.md
+|   |-- default-theme-last-updated.md
+|   |-- default-theme-layout.md
+|   |-- default-theme-nav.md
+|   |-- default-theme-prev-next-links.md
+|   |-- default-theme-search.md
+|   |-- default-theme-sidebar.md
+|   |-- default-theme-team-page.md
+|   |-- frontmatter-config.md
+|   |-- runtime-api.md
+|   `-- site-config.md
+|-- snippets
+|   |-- init.ansi
+|   |-- snippet.js
+|   `-- snippet-with-region.js
+`-- .vitepress
+    |-- cache
+    |   `-- deps
+    |       |-- chunk-RBH54IHM.js
+    |       |-- chunk-RBH54IHM.js.map
+    |       |-- _metadata.json
+    |       |-- package.json
+    |       |-- @theme_index.js
+    |       |-- @theme_index.js.map
+    |       |-- vitepress___@vue_devtools-api.js
+    |       |-- vitepress___@vue_devtools-api.js.map
+    |       |-- vue.js
+    |       `-- vue.js.map
+    `-- config.ts
+
+8 directories, 62 files
